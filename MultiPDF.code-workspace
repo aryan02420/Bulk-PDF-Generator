@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "Rust Backend",
+      "path": "MultiPDF/src-tauri"
+    },
+    {
+      "name": "Next Frontend",
+      "path": "MultiPDF"
+    },
+    {
+      "name": "root",
+      "path": "./"
+    }
+  ]
+}
